@@ -16,7 +16,7 @@
     font-weight: 900;
     font-style: normal;
     letter-spacing: 10 px;
-    font-size: 56px;
+    font-size:5rem;
     text-shadow: 2px 2px 2px 10px #000;
       
       
@@ -57,6 +57,7 @@
 .aphish {
     display: block;
     width: 100%;
+    max-width:900px;
     height: 700px;
     box-shadow: 2px 2px 30px 7px #7B68EE;
     margin-top: 10px;
